@@ -5,4 +5,4 @@ Custom implementation of transformer architecture including custom implementatio
 - Multi-Head Attention
 - Scale Dot Product Attention
 
-
+ Vanilla Transformer using PyTorch to translate English text to French.
