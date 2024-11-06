@@ -1,4 +1,4 @@
-# ShockWaveNet
+# Vanilla2Vanille
 Custom implementation of transformer architecture including custom implementation of the following components:
 
 - Positional Encoding
